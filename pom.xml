@@ -12,14 +12,9 @@
 
   <groupId>org.daisy.maven</groupId>
   <artifactId>travis-test</artifactId>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Travis CI Test</name>
   <description>Test project for Travis CI configuration</description>
-
-
-  <scm>
-    <tag>v0.1</tag>
-  </scm>
 </project>
