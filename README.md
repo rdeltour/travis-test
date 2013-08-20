@@ -6,3 +6,5 @@ travis-test
 Test project for Travis config
 
 Another line
+
+Another line
